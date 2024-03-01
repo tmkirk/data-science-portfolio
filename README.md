@@ -11,13 +11,16 @@ WV Institute of Technology,
 Formerly Montogomery, WV
 
 ### Work Experience
-- Teacher @ Winfield High School for 16 years (8/2008-2/2024): Computer Science, AP Statistics, 
+**Teacher @ Winfield High School for 16 years (8/2008-2/2024)**
+- Computer Science, AP Statistics, 
 Robotics, Calculus, Trig
-- Substitute Teacher @ Putnam County Schools (2/2024-present)
-- Salesforce Administrator @ Central App (1/2024-present): A Salesforce Administrator is responsible for 
-managing and optimizing Salesforce systems, including user and license management, support, training, 
-and system upgrades. They ensure effective utilization of Salesforce tools and collaborate with 
-stakeholders to meet organizational requirements.
+
+**Substitute Teacher @ Putnam County Schools (2/2024-present)**
+
+**Salesforce Administrator @ Central App (1/2024-present)**
+- A Salesforce Administrator is responsible for managing and optimizing Salesforce systems,
+including user and license management, support, training, and system upgrades. They ensure
+effective utilization of Salesforce tools and collaborate with stakeholders to meet organizational requirements.
 
 ### Programming Experience
 - Computer Science major for 1.5 years, studied Pascal, PL1, Assembly
