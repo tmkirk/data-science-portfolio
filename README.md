@@ -38,7 +38,7 @@ SAS and Salesforce Developer training (currently working on certifications)
 
 ![Visual Analysis of Effects of Key Demographics on Covid-19 Vaccine Hesitancy in the US (visualizations in Tableau)](/assets/papers/CS670FinalProjectPaper_TinaKirk.pdf)
 
-![Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)](/assets/papers/FinalReport_TinaKirk.pdf)
+![Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)](/assets/papers/FinalReportRevised_TinaKirk.pdf)
 
 ![Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)](/assets/papers/SynchronousElearningEffects.pdf)
 
