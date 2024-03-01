@@ -19,7 +19,6 @@ managing and optimizing Salesforce systems, including user and license managemen
 and system upgrades. They ensure effective utilization of Salesforce tools and collaborate with 
 stakeholders to meet organizational requirements.
 
-
 ### Programming Experience
 - Computer Science major for 1.5 years, studied Pascal, PL1, Assembly
 - Taught Computer Science 16 15 years: Python, Java, JavaScript, Visual Basic
@@ -35,7 +34,7 @@ SAS and Salesforce Developer training (currently working on certifications)
 ### Projects
 - Synchronous e-Learning Effects on Math Performance of High School Students (random forest classifier, decision tree regression, k-means clustering, learning curve, validation curve)
 - Visual Analysis of Effects of Key Demographics on Covid-19 Vaccine Hesitancy in the US (visualizations in Tableau)
-- Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test)
+- Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)
 - Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)
 - Predicting Student Exam Performance (data preparation, jitter plot, beeswarm plot, ggplot methods of geom_sina() and geom_violin(), logistics regression to predict categorical response of pass/fail)
 
