@@ -7,8 +7,7 @@ Marshall University, Huntington, WV,
 - Bachelor of Science in Math Education (5-12),
 WV State University, Institute, WV
 - Pursued Computer Science major,
-WV Institute of Technology, 
-Formerly Montogomery, WV
+WV Institute of Technology (now WV University Institute of Technology)
 
 ### Work Experience
 **Teacher @ Winfield High School for 16 years (8/2008-2/2024)**
@@ -39,9 +38,11 @@ SAS and Salesforce Developer training (currently working on certifications)
 
 ![Visual Analysis of Effects of Key Demographics on Covid-19 Vaccine Hesitancy in the US (visualizations in Tableau)](/assets/papers/CS670FinalProjectPaper_TinaKirk.pdf)
 
-Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)
-- Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)
-- Predicting Student Exam Performance (data preparation, jitter plot, beeswarm plot, ggplot methods of geom_sina() and geom_violin(), logistics regression to predict categorical response of pass/fail)
+![Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)](/assets/papers/FinalReport_TinaKirk.pdf)
+
+![Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)](/assets/papers/SynchronousElearningEffects.pdf)
+
+![Predicting Student Exam Performance (data preparation, jitter plot, beeswarm plot, ggplot methods of geom_sina() and geom_violin(), logistics regression to predict categorical response of pass/fail)](/assets/papers/Student_Exam_Performance_Prediction.pdf)
 
 
 
