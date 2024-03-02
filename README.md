@@ -1,5 +1,7 @@
 # Data Scientist
 
+### Summary
+
 ### Education
 - Master of Science in Data Science,
 Marshall University, Huntington, WV,
@@ -24,7 +26,7 @@ effective utilization of Salesforce tools and collaborate with stakeholders to m
 ### Programming Experience
 - Computer Science major for 1.5 years, studied Pascal, PL1, Assembly
 - Taught Computer Science for 15 years: Python, Java, JavaScript, Visual Basic
-- Head Coach Putnam Area Robotics (FIRST FRC Team 3492) 13 years, programming mentor 5 years (LabView and Java)
+- Head Coach ![Putnam Area Robotics](https://www.parts3492.org) (![FIRST FRC](https://www.firstinspires.org) Team 3492) 13 years, programming mentor 5 years (LabView and Java)
 - Related graduate courses: Intro to GIS, Advanced Programming (Python), Database Engineering (SQL),
 Advanced Web Technology (HTML, CSS, JavaScript), Applied Algorithms (Python), Advanced Database Systems (SQL and NoSQL),
 SAS and Salesforce Developer training (currently working on certifications)
