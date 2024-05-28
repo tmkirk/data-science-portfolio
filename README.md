@@ -4,8 +4,7 @@
 
 ### Education
 - Master of Science in Data Science,
-Marshall University, Huntington, WV,
-8/2021-12/2023
+Marshall University, Huntington, WV
 - Bachelor of Science in Math Education (5-12),
 WV State University, Institute, WV
 - Pursued Computer Science major,
