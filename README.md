@@ -4,8 +4,7 @@
 
 ### Education
 - Master of Science in Data Science,
-Marshall University, Huntington, WV,
-8/2021-12/2023
+Marshall University, Huntington, WV
 - Bachelor of Science in Math Education (5-12),
 WV State University, Institute, WV
 - Pursued Computer Science major,
@@ -26,7 +25,7 @@ effective utilization of Salesforce tools and collaborate with stakeholders to m
 ### Programming Experience
 - Computer Science major for 1.5 years, studied Pascal, PL1, Assembly
 - Taught Computer Science for 15 years: Python, Java, JavaScript, Visual Basic
-- Head Coach ![Putnam Area Robotics](https://www.parts3492.org) (![FIRST FRC](https://www.firstinspires.org) Team 3492) 13 years, programming mentor 5 years (LabView and Java)
+- Head Coach [Putnam Area Robotics Team 3492](https://www.parts3492.org), part of [FIRST FRC](https://www.firstinspires.org), 13 years, programming mentor 5 years (LabView and Java)
 - Related graduate courses: Intro to GIS, Advanced Programming (Python), Database Engineering (SQL),
 Advanced Web Technology (HTML, CSS, JavaScript), Applied Algorithms (Python), Advanced Database Systems (SQL and NoSQL),
 SAS and Salesforce Developer training (currently working on certifications)
@@ -36,15 +35,15 @@ SAS and Salesforce Developer training (currently working on certifications)
 - Related graduate courses: Data Mining, Machine Learning, Visual Analytics, Statistical Data Mining, Regression Analysis
 
 ### Projects
-![Synchronous e-Learning Effects on Math Performance of High School Students (random forest classifier, decision tree regression, k-means clustering, learning curve, validation curve)](/assets/papers/SynchronousElearningEffects.pdf) 
+[Synchronous e-Learning Effects on Math Performance of High School Students (random forest classifier, decision tree regression, k-means clustering, learning curve, validation curve)](/assets/papers/SynchronousElearningEffects.pdf) 
 
-![Visual Analysis of Effects of Key Demographics on Covid-19 Vaccine Hesitancy in the US (visualizations in Tableau)](/assets/papers/CS670FinalProjectPaper_TinaKirk.pdf)
+[Visual Analysis of Effects of Key Demographics on Covid-19 Vaccine Hesitancy in the US (visualizations in Tableau)](/assets/papers/CS670FinalProjectPaper_TinaKirk.pdf)
 
-![Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)](/assets/papers/FinalReportRevised_TinaKirk.pdf)
+[Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)](/assets/papers/FinalReportRevised_TinaKirk.pdf)
 
-![Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)](/assets/papers/SynchronousElearningEffects.pdf)
+[Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)](/assets/papers/SynchronousElearningEffects.pdf)
 
-![Predicting Student Exam Performance (data preparation, jitter plot, beeswarm plot, ggplot methods of geom_sina() and geom_violin(), logistics regression to predict categorical response of pass/fail)](/assets/papers/Student_Exam_Performance_Prediction.pdf)
+[Predicting Student Exam Performance (data preparation, jitter plot, beeswarm plot, ggplot methods of geom_sina() and geom_violin(), logistics regression to predict categorical response of pass/fail)](/assets/papers/Student_Exam_Performance_Prediction.pdf)
 
 
 
